@@ -8,8 +8,8 @@
 For complete documentation on how to install and use Rsync SSH,
 please see:
 
-    https://packagecontrol.io/packages/Rsync%20SSH
+   the original:  https://packagecontrol.io/packages/Rsync%20SSH
 
 If you find a bug, please report it here:
 
-    https://github.com/davidolrik/sublime-rsync-ssh/issues
+    https://github.com/hevisko/sublime-rsync-ssh/issues
