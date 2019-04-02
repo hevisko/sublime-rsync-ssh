@@ -12,4 +12,4 @@ please see:
 
 If you find a bug, please report it here:
 
-    https://github.com/hevisko/sublime-rsync-ssh/issues
+    https://github.com/hevisko/sublime-rsync-ssh/issue
